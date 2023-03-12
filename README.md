@@ -1,2 +1,2 @@
-# Card-Games / Jogos-de-carta
-War e Blackjack (mais complexo) feitos usando Programação Orientada a Objetos
+# Card-Games
+War and Blackjack (more complex) created using OOP.
